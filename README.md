@@ -5,7 +5,7 @@ Play different drum sounds by clicking the on-screen buttons or pressing specifi
 
 ## 🚀 Live Demo
 
-[Click here to try it out](https://yourusername.github.io/Drum-Kit/)  
+[Click here to try it out]( https://bhuvan-shivhare.github.io/Drum-kit/)  
 
 
 ## 🎮 How to Use
